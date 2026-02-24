@@ -1,0 +1,4 @@
+interface:
+  display_name: "Effect-TS"
+  short_description: "Idiomatic Effect-TS coding and docs lookup"
+  default_prompt: "Use $effect-ts to build, refactor, or test this TypeScript code with Effect, Layers, Schema, and @effect/vitest."
